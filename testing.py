@@ -1,3 +1,7 @@
+"""
+    MUST HAVE CHROME DRIVER LOCATED IN THE SAME FOLDER AS THIS FILE ALONG WITH SELENIUM
+"""
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
